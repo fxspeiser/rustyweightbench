@@ -1,0 +1,24 @@
+{
+  "name": "rustyweightbench",
+  "version": "1.0.0",
+  "description": "A no-frills C util for beating up your system. Don't stare dirtectly at it or it gets antsy. ",
+  "main": "rwb",
+  "scripts": {
+    "test": "./rwb 4096 1000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxspeiser/rustyweightbench.git"
+  },
+  "keywords": [
+    "system",
+    "utility",
+    "benchmarking"
+  ],
+  "author": "Frank Speiser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fxspeiser/rustyweightbench/issues"
+  },
+  "homepage": "https://github.com/fxspeiser/rustyweightbench#readme"
+}
